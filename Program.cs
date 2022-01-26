@@ -1,0 +1,1 @@
+﻿string[] newArr = {"fd", "cghf", "tew", "43256", "112", "utyr"};
