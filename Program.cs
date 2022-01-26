@@ -2,5 +2,8 @@
 
 for(int i = 0; i < newArr.Length; i++)
 {
-    
+    if(newArr[i].Length <= 3)
+    {
+
+    }
 }
